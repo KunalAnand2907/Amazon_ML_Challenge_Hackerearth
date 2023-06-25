@@ -33,6 +33,7 @@ Devolop a Machine Learning Model that can calculate the time taken by the delive
     19.)   City
 
 <B> Note: 
+
 1.) We need to predict the Time Taken By Delivery Person(ETA--Estimated Time of Arrival) - The Values should be Numerical and rounded to next higher Number
 
 2.) Since we the Output Column is Non- Contigous Numerical Column with More than one Feature's(Numerical & Categorical) -- X - and it is Supervised ML Problem,  We can apply only Regression ML Algorithm & ANN for Regression </B>
